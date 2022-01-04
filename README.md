@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Ivan Panussis
+- 👋 Hi, I’m Ivan Panussis. I'm a Software Engineer with 3 years of experience, 2 years coding in Java and Spring Framework and 1 year in React JS.
 - 👀 I’m interested in learn MERN stack...
 - 🌱 I’m currently learning React Native on Android and IOS devices....
 - 📫 How to reach me... You can looking for me on Linkedin
 - 💰 My dream is work outside of my country and make friends for coding.
+- 🤖 I recently learn to use UIPath and Blue prism (RPA - Robotic Process Automation).
