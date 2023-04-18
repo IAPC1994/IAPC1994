@@ -4,3 +4,8 @@
 - 📫 How to reach me... You can find me on Linkedin in the next link: https://www.linkedin.com/in/ivan-alejandro-panussis-conejeros/?locale=en_US
 - ✈️ My dream is work outside of my country and make a new life there...
 - 🤖 I recently learn to use UIPath (RPA - Robotic Process Automation).
+
+
+[💼 Projects]:
+- NextJS Pokedex (Static Site Generation, Incremental Static Generation): https://next-pokemon-static-taupe.vercel.app/
+- NextJS OpenJira (Material UI): https://next-openjira-tan.vercel.app/
