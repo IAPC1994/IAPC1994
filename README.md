@@ -9,4 +9,5 @@
 [💼 Projects]:
 - NextJS Pokedex (Static Site Generation, Incremental Static Generation): https://next-pokemon-static-taupe.vercel.app/
 - NextJS OpenJira (Material UI): https://next-openjira-tan.vercel.app/
+- NextJS Teslo-Shop (Material UI - Server Side Rendering - Static Site Generation): https://next-teslo-shop-eta.vercel.app/
 - More comming soon...
