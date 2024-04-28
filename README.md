@@ -13,3 +13,6 @@
 - NextJS Teslo-Shop (Material UI - Server Side Rendering - Static Site Generation): https://next-teslo-shop-eta.vercel.app/
 - NextJS 14 Dashboard (Static Site Generation - Incremental Static Regeneration): https://nextjs14-dashboard-52fkcmmit-iapc1994.vercel.app/dashboard/pokemons
 - More comming soon...
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAPC1994&theme=tokyonight)
