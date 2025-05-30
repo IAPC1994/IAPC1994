@@ -1,10 +1,21 @@
-### 💼 Welcome to my portfolio 💼
-- 👋 Hi, I’m Ivan Panussis. I'm a Software Engineer with 6 years of experience, coding in Java - Spring Framework and React JS - React Native - Next JS.
-- 🥅 My goal is dominate MERN stack (**M**ongoDB, **E**xpressJS, **R**eact, **N**odeJS)...
-- 📫 How to reach me... You can find me on Linkedin in the next link: https://www.linkedin.com/in/ivan-alejandro-panussis-conejeros/?locale=en_US
-- ✈️ My dream is to leave a mark through software development.
-- I 💖 JavaScript/TypeScript Technologies
+# 💼 Welcome to my portfolio
 
-<p align="center">
+### I'm Ivan Panussis, a computer engineer with over 5 years of experience creating solutions and fighting imposter syndrome 😆. Currently located in Sydney, Australia 📍 looking to have the opportunity to create professional solutions.
+
+## My current Stack 📚:
+
+**Front end** 💻:
+- HTML, CSS, JavaScript, TypeScript -> ReactJS - React Native -> Next.js + Tailwind ⚛️.
+
+**Back end** : :
+- Nest 🐯, Python 🐍, Java ☕ -> PostgreSQL 🐘 -> Docker 🐳 
+
+
+- 🥇 My goal is that the solution I deliver with my skills and effort makes the end customer happy 🙂.
+- 📖 Studying last technologies trends.
+- I 💖 JavaScript & Python.
+
+# This GitHub contain 🤖:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAPC1994&theme=tokyonight)
-</p>
+
