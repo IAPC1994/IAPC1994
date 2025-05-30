@@ -5,5 +5,6 @@
 - ✈️ My dream is to leave a mark through software development.
 - I 💖 JavaScript/TypeScript Technologies
 
-
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAPC1994&theme=tokyonight)
+</p>
