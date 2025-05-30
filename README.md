@@ -7,7 +7,7 @@
 **Front end** 💻:
 - HTML, CSS, JavaScript, TypeScript -> ReactJS - React Native -> Next.js + Tailwind ⚛️.
 
-**Back end** : :
+**Back end** 💿 :
 - Nest 🐯, Python 🐍, Java ☕ -> PostgreSQL 🐘 -> Docker 🐳 
 
 
