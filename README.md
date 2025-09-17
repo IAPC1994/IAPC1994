@@ -13,9 +13,4 @@
 ### More about me:
 - 🥇 My goal is that the solution I deliver with my skills and effort makes the end customer happy 🙂.
 - 📖 Studying last technologies trends.
-- I 💖 JavaScript & Python.
-
-# This GitHub contain 🤖:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IAPC1994&theme=tokyonight)
-
+- I 💖 learn new skills and team work.
