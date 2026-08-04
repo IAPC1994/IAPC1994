@@ -47,8 +47,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAPC1994&show_icons=true&locale=en" alt="Ivan's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=IAPC1994&layout=compact" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAPC1994&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-languages/?username=IAPC1994&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
