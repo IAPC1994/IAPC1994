@@ -48,7 +48,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAPC1994&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
-<img src="https://github-readme-stats-git-master-iapc1994s-projects.vercel.app/api?username=IAPC1994&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" height="165" />
 
 ---
 
